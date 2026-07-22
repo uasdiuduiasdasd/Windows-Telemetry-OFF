@@ -51,11 +51,6 @@ The utility offers three operational profiles depending on the desired level of 
 3. Select the desired operational mode from the interactive menu (keys `1`–`5`).
 4. Restart your system after completion to apply all changes.
 
-## Command-line execution
-```cmd
-Windows-Telemetry-OFF.bat
-```
-
 ## Logging and Reports
 
 Upon completion, the script generates two log files in its working directory:
