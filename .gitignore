@@ -1,0 +1,20 @@
+# Reports & Logs
+Windows_Telemetry_OFF_Log.txt
+Windows_Telemetry_OFF_Result.txt
+*.log
+*.tmp
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msu
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+*.swp
+*~
